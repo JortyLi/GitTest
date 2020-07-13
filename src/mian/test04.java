@@ -10,5 +10,7 @@ public class test04 {
         System.out.println("整合测试");
 
         System.out.println("整合测试1");
+
+        System.out.println("整合测试2");
     }
 }
