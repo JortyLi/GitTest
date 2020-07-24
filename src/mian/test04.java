@@ -26,5 +26,7 @@ public class test04 {
         System.out.println("整合测试8");
 
         System.out.println("整合测试9");
+
+        System.out.println("整合测试10");
     }
 }
